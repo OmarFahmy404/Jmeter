@@ -1,0 +1,343 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1674428000672,4723,https://blazedemo.com/index.php,200,OK,Thread Group 1-4,text,true,,288042,3113,6,6,https://blazedemo.com/index.php,2082,0,1565
+1674428000672,2094,https://blazedemo.com/index.php-0,200,OK,Thread Group 1-4,text,true,,4757,503,6,6,https://blazedemo.com/index.php,2082,0,1565
+1674428002809,1496,https://blazedemo.com/index.php-1,200,OK,Thread Group 1-4,text,true,,83982,536,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,224,0,114
+1674428002826,2569,https://blazedemo.com/index.php-2,200,OK,Thread Group 1-4,text,true,,28981,517,6,6,https://blazedemo.com/assets/bootstrap.min.js,1928,0,1322
+1674428002817,1707,https://blazedemo.com/index.php-3,200,OK,Thread Group 1-4,text,true,,39488,519,6,6,https://blazedemo.com/assets/bootstrap-table.js,1155,0,584
+1674428002821,1876,https://blazedemo.com/index.php-4,200,OK,Thread Group 1-4,text,true,,126767,518,6,6,https://blazedemo.com/assets/bootstrap.min.css,325,0,0
+1674428002817,1222,https://blazedemo.com/index.php-5,200,OK,Thread Group 1-4,text,true,,4067,520,6,6,https://blazedemo.com/assets/bootstrap-table.css,1198,0,584
+1674428000670,4723,Open the site,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,288042,3113,6,6,null,2082,19,1565
+1674428000517,5413,https://blazedemo.com/index.php,200,OK,Thread Group 1-3,text,true,,288042,3113,6,6,https://blazedemo.com/index.php,2156,0,1711
+1674428000517,2161,https://blazedemo.com/index.php-0,200,OK,Thread Group 1-3,text,true,,4757,503,6,6,https://blazedemo.com/index.php,2156,0,1711
+1674428002828,1489,https://blazedemo.com/index.php-1,200,OK,Thread Group 1-3,text,true,,83982,536,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,244,0,96
+1674428002830,2657,https://blazedemo.com/index.php-2,200,OK,Thread Group 1-3,text,true,,28981,517,6,6,https://blazedemo.com/assets/bootstrap.min.js,1958,0,1324
+1674428002814,846,https://blazedemo.com/index.php-3,200,OK,Thread Group 1-3,text,true,,39488,519,6,6,https://blazedemo.com/assets/bootstrap-table.js,319,0,0
+1674428002814,2962,https://blazedemo.com/index.php-4,200,OK,Thread Group 1-3,text,true,,126767,518,6,6,https://blazedemo.com/assets/bootstrap.min.css,1153,0,554
+1674428002827,3103,https://blazedemo.com/index.php-5,200,OK,Thread Group 1-3,text,true,,4067,520,6,6,https://blazedemo.com/assets/bootstrap-table.css,3101,0,2793
+1674428000516,5413,Open the site,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,288042,3113,6,6,null,2156,5,1711
+1674428000347,5825,https://blazedemo.com/index.php,200,OK,Thread Group 1-2,text,true,,288042,3113,6,6,https://blazedemo.com/index.php,2333,0,1890
+1674428000347,2347,https://blazedemo.com/index.php-0,200,OK,Thread Group 1-2,text,true,,4757,503,6,6,https://blazedemo.com/index.php,2333,0,1890
+1674428002814,3358,https://blazedemo.com/index.php-1,200,OK,Thread Group 1-2,text,true,,83982,536,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,2367,0,1473
+1674428002814,1664,https://blazedemo.com/index.php-2,200,OK,Thread Group 1-2,text,true,,28981,517,6,6,https://blazedemo.com/assets/bootstrap.min.js,1165,0,554
+1674428002814,687,https://blazedemo.com/index.php-3,200,OK,Thread Group 1-2,text,true,,39488,519,6,6,https://blazedemo.com/assets/bootstrap-table.js,265,0,0
+1674428002820,3185,https://blazedemo.com/index.php-4,200,OK,Thread Group 1-2,text,true,,126767,518,6,6,https://blazedemo.com/assets/bootstrap.min.css,2009,0,1443
+1674428002829,1272,https://blazedemo.com/index.php-5,200,OK,Thread Group 1-2,text,true,,4067,520,6,6,https://blazedemo.com/assets/bootstrap-table.css,1257,0,631
+1674428000344,5825,Open the site,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,288042,3113,6,6,null,2333,4,1890
+1674428000836,5343,https://blazedemo.com/index.php,200,OK,Thread Group 1-5,text,true,,288042,3113,6,6,https://blazedemo.com/index.php,1931,0,1399
+1674428000836,1944,https://blazedemo.com/index.php-0,200,OK,Thread Group 1-5,text,true,,4757,503,6,6,https://blazedemo.com/index.php,1931,0,1399
+1674428002822,3357,https://blazedemo.com/index.php-1,200,OK,Thread Group 1-5,text,true,,83982,536,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,2360,0,1471
+1674428002813,1682,https://blazedemo.com/index.php-2,200,OK,Thread Group 1-5,text,true,,28981,517,6,6,https://blazedemo.com/assets/bootstrap.min.js,1195,0,592
+1674428002809,699,https://blazedemo.com/index.php-3,200,OK,Thread Group 1-5,text,true,,39488,519,6,6,https://blazedemo.com/assets/bootstrap-table.js,284,0,0
+1674428002823,2986,https://blazedemo.com/index.php-4,200,OK,Thread Group 1-5,text,true,,126767,518,6,6,https://blazedemo.com/assets/bootstrap.min.css,1275,0,632
+1674428002818,2009,https://blazedemo.com/index.php-5,200,OK,Thread Group 1-5,text,true,,4067,520,6,6,https://blazedemo.com/assets/bootstrap-table.css,1969,0,1338
+1674428000834,5343,Open the site,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,288042,3113,6,6,null,1931,3,1399
+1674428005657,753,Fahmy select his flight,200,OK,Thread Group 1-4,text,false,"Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[fromPort=&toPort=                                                                            ]]]
+
+/	Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[
+                                                                                            ]]]
+
+/	",8244,5355,6,6,https://blazedemo.com/reserve.php,402,0,0
+1674428005657,445,Fahmy select his flight-0,200,OK,Thread Group 1-4,text,true,,7325,852,6,6,https://blazedemo.com/reserve.php,402,0,0
+1674428006108,163,Fahmy select his flight-1,304,Not Modified,Thread Group 1-4,,true,,215,885,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1674428006112,298,Fahmy select his flight-2,304,Not Modified,Thread Group 1-4,,true,,176,903,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428006110,299,Fahmy select his flight-3,304,Not Modified,Thread Group 1-4,,true,,176,905,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428006109,280,Fahmy select his flight-4,304,Not Modified,Thread Group 1-4,,true,,177,905,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428006109,291,Fahmy select his flight-5,304,Not Modified,Thread Group 1-4,,true,,175,905,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428005412,753,Flight Selection,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-4,,false,,8244,5355,6,6,null,402,253,0
+1674428000324,6205,https://blazedemo.com/index.php,200,OK,Thread Group 1-1,text,true,,288042,3113,6,6,https://blazedemo.com/index.php,2367,0,1905
+1674428000324,2372,https://blazedemo.com/index.php-0,200,OK,Thread Group 1-1,text,true,,4757,503,6,6,https://blazedemo.com/index.php,2367,0,1905
+1674428002813,2123,https://blazedemo.com/index.php-1,200,OK,Thread Group 1-1,text,true,,83982,536,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,883,0,454
+1674428002822,1631,https://blazedemo.com/index.php-2,200,OK,Thread Group 1-1,text,true,,28981,517,6,6,https://blazedemo.com/assets/bootstrap.min.js,1141,0,562
+1674428002818,842,https://blazedemo.com/index.php-3,200,OK,Thread Group 1-1,text,true,,39488,519,6,6,https://blazedemo.com/assets/bootstrap-table.js,311,0,0
+1674428002829,3700,https://blazedemo.com/index.php-4,200,OK,Thread Group 1-1,text,true,,126767,518,6,6,https://blazedemo.com/assets/bootstrap.min.css,3114,0,2807
+1674428002826,1953,https://blazedemo.com/index.php-5,200,OK,Thread Group 1-1,text,true,,4067,520,6,6,https://blazedemo.com/assets/bootstrap-table.css,1953,0,1326
+1674428000202,6205,Open the site,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,288042,3113,6,6,null,2367,125,1905
+1674428001006,5637,https://blazedemo.com/index.php,200,OK,Thread Group 1-6,text,true,,288042,3113,6,6,https://blazedemo.com/index.php,1715,0,1232
+1674428001006,1722,https://blazedemo.com/index.php-0,200,OK,Thread Group 1-6,text,true,,4757,503,6,6,https://blazedemo.com/index.php,1715,0,1232
+1674428002809,3834,https://blazedemo.com/index.php-1,200,OK,Thread Group 1-6,text,true,,83982,536,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,3455,0,3103
+1674428002827,2651,https://blazedemo.com/index.php-2,200,OK,Thread Group 1-6,text,true,,28981,517,6,6,https://blazedemo.com/assets/bootstrap.min.js,1961,0,1436
+1674428002818,820,https://blazedemo.com/index.php-3,200,OK,Thread Group 1-6,text,true,,39488,519,6,6,https://blazedemo.com/assets/bootstrap-table.js,301,0,0
+1674428002821,2974,https://blazedemo.com/index.php-4,200,OK,Thread Group 1-6,text,true,,126767,518,6,6,https://blazedemo.com/assets/bootstrap.min.css,1162,0,580
+1674428002825,1952,https://blazedemo.com/index.php-5,200,OK,Thread Group 1-6,text,true,,4067,520,6,6,https://blazedemo.com/assets/bootstrap-table.css,1952,0,1327
+1674428001002,5637,Open the site,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,288042,3113,6,6,null,1715,6,1232
+1674428006293,575,Mostafa select his flight,200,OK,Thread Group 1-5,text,false,"Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[fromPort=&toPort=                                                                            ]]]
+
+/	Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[
+                                                                                            ]]]
+
+/	",8244,5355,6,6,https://blazedemo.com/reserve.php,348,0,0
+1674428006293,360,Mostafa select his flight-0,200,OK,Thread Group 1-5,text,true,,7325,852,6,6,https://blazedemo.com/reserve.php,348,0,0
+1674428006658,71,Mostafa select his flight-1,304,Not Modified,Thread Group 1-5,,true,,215,885,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1674428006661,200,Mostafa select his flight-2,304,Not Modified,Thread Group 1-5,,true,,176,903,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428006660,207,Mostafa select his flight-3,304,Not Modified,Thread Group 1-5,,true,,176,905,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428006659,209,Mostafa select his flight-4,304,Not Modified,Thread Group 1-5,,true,,177,905,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428006659,202,Mostafa select his flight-5,304,Not Modified,Thread Group 1-5,,true,,175,905,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428006180,575,Flight Selection,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-5,,false,,8244,5355,6,6,null,348,114,0
+1674428006319,589,Khaled select his flight,200,OK,Thread Group 1-2,text,false,"Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[fromPort=&toPort=                                                                            ]]]
+
+/	Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[
+                                                                                            ]]]
+
+/	",8244,5355,6,6,https://blazedemo.com/reserve.php,361,0,0
+1674428006319,371,Khaled select his flight-0,200,OK,Thread Group 1-2,text,true,,7325,852,6,6,https://blazedemo.com/reserve.php,361,0,0
+1674428006694,71,Khaled select his flight-1,304,Not Modified,Thread Group 1-2,,true,,215,885,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1674428006694,197,Khaled select his flight-2,304,Not Modified,Thread Group 1-2,,true,,176,903,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428006698,210,Khaled select his flight-3,304,Not Modified,Thread Group 1-2,,true,,176,905,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428006695,212,Khaled select his flight-4,304,Not Modified,Thread Group 1-2,,true,,177,905,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428006695,199,Khaled select his flight-5,304,Not Modified,Thread Group 1-2,,true,,175,905,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428006173,589,Flight Selection,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-2,,false,,8244,5355,6,6,null,361,147,0
+1674428006144,823,Eslam select his flight,200,OK,Thread Group 1-3,text,false,"Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[fromPort=&toPort=                                                                            ]]]
+
+/	Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[
+                                                                                            ]]]
+
+/	",8244,5355,6,6,https://blazedemo.com/reserve.php,558,0,0
+1674428006144,603,Eslam select his flight-0,200,OK,Thread Group 1-3,text,true,,7325,852,6,6,https://blazedemo.com/reserve.php,558,0,0
+1674428006750,70,Eslam select his flight-1,304,Not Modified,Thread Group 1-3,,true,,215,885,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1674428006750,216,Eslam select his flight-2,304,Not Modified,Thread Group 1-3,,true,,176,903,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428006750,205,Eslam select his flight-3,304,Not Modified,Thread Group 1-3,,true,,176,905,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428006751,216,Eslam select his flight-4,304,Not Modified,Thread Group 1-3,,true,,177,905,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428006750,209,Eslam select his flight-5,304,Not Modified,Thread Group 1-3,,true,,175,905,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428005934,823,Flight Selection,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,8244,5355,6,6,null,558,211,0
+1674428006707,526,Omar select his flight,200,OK,Thread Group 1-1,text,false,"Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[fromPort=&toPort=                                                                            ]]]
+
+/	Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[
+                                                                                            ]]]
+
+/	",8244,5355,6,6,https://blazedemo.com/reserve.php,295,0,0
+1674428006707,310,Omar select his flight-0,200,OK,Thread Group 1-1,text,true,,7325,852,6,6,https://blazedemo.com/reserve.php,295,0,0
+1674428007019,69,Omar select his flight-1,304,Not Modified,Thread Group 1-1,,true,,215,885,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1674428007020,203,Omar select his flight-2,304,Not Modified,Thread Group 1-1,,true,,176,903,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428007023,205,Omar select his flight-3,304,Not Modified,Thread Group 1-1,,true,,176,905,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428007024,209,Omar select his flight-4,304,Not Modified,Thread Group 1-1,,true,,177,905,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428007022,202,Omar select his flight-5,304,Not Modified,Thread Group 1-1,,true,,175,905,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428006533,526,Flight Selection,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,8244,5355,6,6,null,295,176,0
+1674428006874,566,Ali select his flight,200,OK,Thread Group 1-6,text,false,"Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[fromPort=&toPort=                                                                            ]]]
+
+/	Test failed: request data expected something using /
+
+****** received  : [[[POST https://blazedemo.com/reserve.php
+
+POST data:
+fromPort=Boston&toPort=Rome
+
+[no cookies]
+]]]
+
+****** comparison: [[[
+                                                                                            ]]]
+
+/	",8244,5355,6,6,https://blazedemo.com/reserve.php,317,0,0
+1674428006874,330,Ali select his flight-0,200,OK,Thread Group 1-6,text,true,,7325,852,6,6,https://blazedemo.com/reserve.php,317,0,0
+1674428007208,69,Ali select his flight-1,304,Not Modified,Thread Group 1-6,,true,,215,885,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1674428007206,199,Ali select his flight-2,304,Not Modified,Thread Group 1-6,,true,,176,903,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428007208,214,Ali select his flight-3,304,Not Modified,Thread Group 1-6,,true,,176,905,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428007209,201,Ali select his flight-4,304,Not Modified,Thread Group 1-6,,true,,177,905,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428007208,232,Ali select his flight-5,304,Not Modified,Thread Group 1-6,,true,,175,905,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428006645,566,Flight Selection,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-6,,false,,8244,5355,6,6,null,317,230,0
+1674428022558,535,The process done by Fahmy,200,OK,Thread Group 1-4,text,true,,91401,3849,6,6,https://blazedemo.com/purchase.php,286,0,0
+1674428022558,300,The process done by Fahmy-0,200,OK,Thread Group 1-4,text,true,,6715,646,6,6,https://blazedemo.com/purchase.php,286,0,0
+1674428022862,231,The process done by Fahmy-1,200,OK,Thread Group 1-4,text,true,,83982,585,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,78,0,0
+1674428022862,214,The process done by Fahmy-2,304,Not Modified,Thread Group 1-4,,true,,176,653,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428022862,192,The process done by Fahmy-3,304,Not Modified,Thread Group 1-4,,true,,176,655,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428022862,207,The process done by Fahmy-4,304,Not Modified,Thread Group 1-4,,true,,177,655,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428022862,203,The process done by Fahmy-5,304,Not Modified,Thread Group 1-4,,true,,175,655,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428006418,535,Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,91401,3849,6,6,null,286,16141,0
+1674428028548,623,The process done by Eslam,200,OK,Thread Group 1-3,text,true,,91401,3849,6,6,https://blazedemo.com/purchase.php,370,0,0
+1674428028548,379,The process done by Eslam-0,200,OK,Thread Group 1-3,text,true,,6715,646,6,6,https://blazedemo.com/purchase.php,370,0,0
+1674428028929,228,The process done by Eslam-1,200,OK,Thread Group 1-3,text,true,,83982,585,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,74,0,0
+1674428028929,211,The process done by Eslam-2,304,Not Modified,Thread Group 1-3,,true,,176,653,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428028929,194,The process done by Eslam-3,304,Not Modified,Thread Group 1-3,,true,,176,655,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428028929,242,The process done by Eslam-4,304,Not Modified,Thread Group 1-3,,true,,177,655,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428028930,205,The process done by Eslam-5,304,Not Modified,Thread Group 1-3,,true,,175,655,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428006968,623,Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,91401,3849,6,6,null,370,21582,0
+1674428029560,587,The process done by Mostafa,200,OK,Thread Group 1-5,text,true,,91401,3849,6,6,https://blazedemo.com/purchase.php,346,0,0
+1674428029560,362,The process done by Mostafa-0,200,OK,Thread Group 1-5,text,true,,6715,646,6,6,https://blazedemo.com/purchase.php,346,0,0
+1674428029930,216,The process done by Mostafa-1,200,OK,Thread Group 1-5,text,true,,83982,585,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,72,0,0
+1674428029930,205,The process done by Mostafa-2,304,Not Modified,Thread Group 1-5,,true,,176,653,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428029930,217,The process done by Mostafa-3,304,Not Modified,Thread Group 1-5,,true,,176,655,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428029931,212,The process done by Mostafa-4,304,Not Modified,Thread Group 1-5,,true,,177,655,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428029932,211,The process done by Mostafa-5,304,Not Modified,Thread Group 1-5,,true,,175,655,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428006869,587,Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,91401,3849,6,6,null,346,22692,0
+1674428031274,827,The process done by Omar,200,OK,Thread Group 1-1,text,true,,91401,3849,6,6,https://blazedemo.com/purchase.php,482,0,0
+1674428031274,493,The process done by Omar-0,200,OK,Thread Group 1-1,text,true,,6715,646,6,6,https://blazedemo.com/purchase.php,482,0,0
+1674428031769,332,The process done by Omar-1,200,OK,Thread Group 1-1,text,true,,83982,585,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,73,0,0
+1674428031770,214,The process done by Omar-2,304,Not Modified,Thread Group 1-1,,true,,176,653,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428031770,205,The process done by Omar-3,304,Not Modified,Thread Group 1-1,,true,,176,655,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428031769,198,The process done by Omar-4,304,Not Modified,Thread Group 1-1,,true,,177,655,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428031769,193,The process done by Omar-5,304,Not Modified,Thread Group 1-1,,true,,175,655,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428007235,827,Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,91401,3849,6,6,null,482,24041,0
+1674428033425,560,Fahmy data,200,OK,Thread Group 1-4,text,true,,6699,4000,6,6,https://blazedemo.com/confirmation.php,286,0,0
+1674428033425,306,Fahmy data-0,200,OK,Thread Group 1-4,text,true,,5780,747,6,6,https://blazedemo.com/confirmation.php,286,0,0
+1674428033786,80,Fahmy data-1,304,Not Modified,Thread Group 1-4,,true,,215,635,6,6,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1674428033786,195,Fahmy data-2,304,Not Modified,Thread Group 1-4,,true,,176,653,6,6,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428033786,191,Fahmy data-3,304,Not Modified,Thread Group 1-4,,true,,176,655,6,6,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428033786,199,Fahmy data-4,304,Not Modified,Thread Group 1-4,,true,,177,655,6,6,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428033786,198,Fahmy data-5,304,Not Modified,Thread Group 1-4,,true,,175,655,6,6,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428023095,560,Enter your data,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,6699,4000,6,6,null,286,10332,0
+1674428038389,533,The process done by Khaled,200,OK,Thread Group 1-2,text,true,,91401,3849,5,5,https://blazedemo.com/purchase.php,292,0,0
+1674428038389,300,The process done by Khaled-0,200,OK,Thread Group 1-2,text,true,,6715,646,5,5,https://blazedemo.com/purchase.php,292,0,0
+1674428038693,229,The process done by Khaled-1,200,OK,Thread Group 1-2,text,true,,83982,585,5,5,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,76,0,0
+1674428038693,215,The process done by Khaled-2,304,Not Modified,Thread Group 1-2,,true,,176,653,5,5,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428038693,196,The process done by Khaled-3,304,Not Modified,Thread Group 1-2,,true,,176,655,5,5,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428038693,214,The process done by Khaled-4,304,Not Modified,Thread Group 1-2,,true,,177,655,5,5,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428038693,208,The process done by Khaled-5,304,Not Modified,Thread Group 1-2,,true,,175,655,5,5,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428006909,533,Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,91401,3849,5,5,null,292,31481,0
+1674428044926,698,The process done by Ali,200,OK,Thread Group 1-6,text,true,,91401,3849,5,5,https://blazedemo.com/purchase.php,476,0,0
+1674428044926,490,The process done by Ali-0,200,OK,Thread Group 1-6,text,true,,6715,646,5,5,https://blazedemo.com/purchase.php,476,0,0
+1674428045418,205,The process done by Ali-1,200,OK,Thread Group 1-6,text,true,,83982,585,5,5,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,76,0,0
+1674428045418,192,The process done by Ali-2,304,Not Modified,Thread Group 1-6,,true,,176,653,5,5,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428045418,202,The process done by Ali-3,304,Not Modified,Thread Group 1-6,,true,,176,655,5,5,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428045418,206,The process done by Ali-4,304,Not Modified,Thread Group 1-6,,true,,177,655,5,5,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428045418,202,The process done by Ali-5,304,Not Modified,Thread Group 1-6,,true,,175,655,5,5,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428007441,698,Choose Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,91401,3849,5,5,null,476,37494,0
+1674428048635,570,Eslam data,200,OK,Thread Group 1-3,text,false,Test failed: request data expected to contain /Kafr Elshikh/,6699,4008,5,5,https://blazedemo.com/confirmation.php,311,0,0
+1674428048635,347,Eslam data-0,200,OK,Thread Group 1-3,text,true,,5780,755,5,5,https://blazedemo.com/confirmation.php,311,0,0
+1674428048987,72,Eslam data-1,304,Not Modified,Thread Group 1-3,,true,,215,635,5,5,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1674428048987,207,Eslam data-2,304,Not Modified,Thread Group 1-3,,true,,176,653,5,5,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428048987,190,Eslam data-3,304,Not Modified,Thread Group 1-3,,true,,176,655,5,5,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428048988,217,Eslam data-4,304,Not Modified,Thread Group 1-3,,true,,177,655,5,5,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428048988,197,Eslam data-5,304,Not Modified,Thread Group 1-3,,true,,175,655,5,5,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428029173,570,Enter your data,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-3,,false,,6699,4008,5,5,null,311,19464,0
+1674428049024,526,Mostafa data,200,OK,Thread Group 1-5,text,true,,6699,3996,4,4,https://blazedemo.com/confirmation.php,312,0,0
+1674428049024,319,Mostafa data-0,200,OK,Thread Group 1-5,text,true,,5780,743,4,4,https://blazedemo.com/confirmation.php,312,0,0
+1674428049349,85,Mostafa data-1,304,Not Modified,Thread Group 1-5,,true,,215,635,4,4,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1674428049348,200,Mostafa data-2,304,Not Modified,Thread Group 1-5,,true,,176,653,4,4,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428049348,197,Mostafa data-3,304,Not Modified,Thread Group 1-5,,true,,176,655,4,4,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428049349,200,Mostafa data-4,304,Not Modified,Thread Group 1-5,,true,,177,655,4,4,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428049349,201,Mostafa data-5,304,Not Modified,Thread Group 1-5,,true,,175,655,4,4,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428030148,526,Enter your data,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,6699,3996,4,4,null,312,18877,0
+1674428051481,659,Khaled data,200,OK,Thread Group 1-2,text,true,,6699,4003,3,3,https://blazedemo.com/confirmation.php,437,0,0
+1674428051481,450,Khaled data-0,200,OK,Thread Group 1-2,text,true,,5780,750,3,3,https://blazedemo.com/confirmation.php,437,0,0
+1674428051937,80,Khaled data-1,304,Not Modified,Thread Group 1-2,,true,,215,635,3,3,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,0
+1674428051936,193,Khaled data-2,304,Not Modified,Thread Group 1-2,,true,,176,653,3,3,https://blazedemo.com/assets/bootstrap.min.js,0,0,0
+1674428051936,200,Khaled data-3,304,Not Modified,Thread Group 1-2,,true,,176,655,3,3,https://blazedemo.com/assets/bootstrap-table.js,0,0,0
+1674428051936,204,Khaled data-4,304,Not Modified,Thread Group 1-2,,true,,177,655,3,3,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428051937,194,Khaled data-5,304,Not Modified,Thread Group 1-2,,true,,175,655,3,3,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428038923,659,Enter your data,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,6699,4003,3,3,null,437,12559,0
+1674428084699,1299,Omar data,200,OK,Thread Group 1-1,text,true,,6699,4000,2,2,https://blazedemo.com/confirmation.php,807,0,290
+1674428084699,814,Omar data-0,200,OK,Thread Group 1-1,text,true,,5780,747,2,2,https://blazedemo.com/confirmation.php,807,0,290
+1674428085520,154,Omar data-1,304,Not Modified,Thread Group 1-1,,true,,215,635,2,2,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,79
+1674428085519,475,Omar data-2,304,Not Modified,Thread Group 1-1,,true,,176,653,2,2,https://blazedemo.com/assets/bootstrap.min.js,0,0,282
+1674428085519,475,Omar data-3,304,Not Modified,Thread Group 1-1,,true,,176,655,2,2,https://blazedemo.com/assets/bootstrap-table.js,0,0,281
+1674428085519,479,Omar data-4,304,Not Modified,Thread Group 1-1,,true,,177,655,2,2,https://blazedemo.com/assets/bootstrap.min.css,0,0,287
+1674428085520,199,Omar data-5,304,Not Modified,Thread Group 1-1,,true,,175,655,2,2,https://blazedemo.com/assets/bootstrap-table.css,0,0,0
+1674428032103,1299,Enter your data,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,6699,4000,2,2,null,807,52599,290
+1674428088139,1144,Ali data,200,OK,Thread Group 1-6,text,true,,6699,4001,1,1,https://blazedemo.com/confirmation.php,665,0,280
+1674428088139,671,Ali data-0,200,OK,Thread Group 1-6,text,true,,5780,748,1,1,https://blazedemo.com/confirmation.php,665,0,280
+1674428088812,130,Ali data-1,304,Not Modified,Thread Group 1-6,,true,,215,635,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,0,0,61
+1674428088812,462,Ali data-2,304,Not Modified,Thread Group 1-6,,true,,176,653,1,1,https://blazedemo.com/assets/bootstrap.min.js,0,0,269
+1674428088812,471,Ali data-3,304,Not Modified,Thread Group 1-6,,true,,176,655,1,1,https://blazedemo.com/assets/bootstrap-table.js,0,0,269
+1674428088812,206,Ali data-4,304,Not Modified,Thread Group 1-6,,true,,177,655,1,1,https://blazedemo.com/assets/bootstrap.min.css,0,0,0
+1674428088814,467,Ali data-5,304,Not Modified,Thread Group 1-6,,true,,175,655,1,1,https://blazedemo.com/assets/bootstrap-table.css,0,0,276
+1674428045633,1144,Enter your data,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,6699,4001,1,1,null,665,42508,280
